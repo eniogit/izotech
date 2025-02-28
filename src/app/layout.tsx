@@ -12,6 +12,7 @@ export default function RootLayout({
     <html lang="en" className={`${interFont.variable}`}>
       <head>
         {/* <script src="https://unpkg.com/react-scan/dist/auto.global.js" /> */}
+        <meta name="theme-color" content="#fdc700"/>
       </head>
       <body className={`antialiased font-sans`}>
         <Navbar />
