@@ -8,9 +8,6 @@ importers:
 
   .:
     dependencies:
-      '@tailwindcss/postcss':
-        specifier: ^4.0.9
-        version: 4.0.9
       lucide-react:
         specifier: ^0.476.0
         version: 0.476.0(react@19.0.0)
@@ -30,6 +27,9 @@ importers:
       '@eslint/eslintrc':
         specifier: ^3.3.0
         version: 3.3.0
+      '@tailwindcss/postcss':
+        specifier: ^4.0.9
+        version: 4.0.9
       '@types/node':
         specifier: ^20.17.19
         version: 20.17.19
