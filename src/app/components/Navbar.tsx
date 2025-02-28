@@ -20,7 +20,7 @@ export function Navbar() {
         <div className="flex-shrink-0 flex items-center min-h-20">
           <Link href="/" className="flex items-center space-x-2">
             <Hammer className="h-8 w-8 text-yellow-400" />
-            <span className="text-xl font-bold">RENOVATION</span>
+            <span className="text-xl font-bold">IZOTECH</span>
           </Link>
         </div>
         {/* Desktop menu */}

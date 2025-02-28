@@ -9,7 +9,7 @@ export function Footer() {
           <div>
             <Link href="/" className="flex items-center space-x-2 mb-4">
               <Hammer className="h-8 w-8 text-yellow-400" />
-              <span className="text-xl font-bold">RENOVATION</span>
+              <span className="text-xl font-bold">IZOTECH</span>
             </Link>
             <p className="text-gray-400">
               Transform your space with our professional renovation services.
