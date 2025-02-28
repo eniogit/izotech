@@ -3,4 +3,5 @@
 @theme {
   --color-primary: oklch(.852 .199 91.936);
   --color-secondary: #1c1e26;
+  --font-sans: var(--font-inter);
 }

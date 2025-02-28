@@ -1,17 +1,15 @@
 import Link from "next/link";
 import { Hammer } from "lucide-react";
-import { DropdownNav } from "./DropdownNav";
+import { DropdownNav } from "@/app/components/DropdownNav";
 
 export function Navbar() {
 
   const navItems = [
     { label: "HOME", href: "/" },
-    { label: "SHOP", href: "/shop" },
     { label: "SERVICES", href: "/services" },
-    { label: "PORTFOLIO", href: "/portfolio" },
     { label: "TESTIMONIALS", href: "/testimonials" },
     { label: "LATEST NEWS", href: "/news" },
-    { label: "CONTACT US", href: "/contact" },
+    // { label: "CONTACT US", href: "/contact" },
   ];
 
   return (
